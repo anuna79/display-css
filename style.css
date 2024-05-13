@@ -11,7 +11,7 @@ body {
     height:365px ;
     margin-left: 32px;
     margin-top: 32px;
-    /* border-radius: 12px; */
+    border-radius: 12px;
     border: none;
     background-color: #297E40;
     display: inline-block;
