@@ -4,7 +4,6 @@ body {
 
 *{
     margin: 0;
-    box-sizing: border-box;
 }
 .div1 {
     width:365px ;
@@ -23,7 +22,7 @@ body {
     margin-left:32px;
     margin-top: 32px;
     border-radius: 90px;
-    border: none #8E2877;
+    border: none;
     background-color: #8E2877;
     display: inline-block;
 }
